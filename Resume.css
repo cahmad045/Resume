@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+#completePage{
+    /* border: 10px solid red; */
+    height: auto;
+    
+}
+
+#introContainer{
+    /* border: 1px solid black; */
+    height: 300px;
+    
+}
+
+img{
+    border-radius: 60%;
+    position: relative;
+    left: 50px ;
+}
+
+#introContent{
+    background-color: rgb(64, 54, 54); 
+    color: white;
+    
+}
+
+#socialContent{
+    /* border: 2px solid red; */
+    height: 200px;
+}
+
+i{
+    margin: 10px;
+}
+
+#expertiseContainer{
+    /* border: 1px solid black; */
+    height: 120px;
+}
+#expertise{
+    position: relative;
+    bottom: 15px;
+}
+.styleBox{
+    /* border: ; */
+    background-color: rgb(64, 54, 54);
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10%;
+}
+
+#education{
+    /* border: 5px solid orange ; */
+    height: 300px;
+
+}
+
+#educationColoumn{
+    /* border: 5px solid yellow; */
+    height: 220px;
+    position: relative;
+    bottom: 25px;
+}
+
+#CertificatesContainer{
+    /* border: 1px solid black; */
+    height: 180px;
+}
